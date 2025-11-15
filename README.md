@@ -8,5 +8,10 @@ Windows下基于aria2的下载管理器, 易用免配置, 支持 HTTP/HTTPS、FT
 **多任务并行下载**：同时处理多个下载任务，互不影响。  
 **自动更新 BT Tracker**：保持最新 tracker 列表，提高 BT/Magnet 任务连接效率。  
 
+### 🚀 使用方法
+👉 [点击这里下载 XiaoFeiGun 最新版本](https://github.com/xfgdck/XiaoFeiGun/releases)，双击安装即可开始使用。
+
 ### 🖼️ 应用截图
 ![主界面](others/main-window.png)
+
+
