@@ -1,6 +1,6 @@
 ## XiaoFeiGun
 
-Windows下基于aria2的下载管理器, 易用免配置, 支持 HTTP/HTTPS、FTP、SFTP、磁力链接（Magnet）与 BT 种子下载。
+Windows下基于aria2的下载软件, 易用免配置, 支持 HTTP/HTTPS、FTP、SFTP、磁力链接（Magnet）与 BT 种子下载。
 
 ### 主要特性
 **免配置**：已内嵌高效配置，无需手动设置，开箱即用。  
