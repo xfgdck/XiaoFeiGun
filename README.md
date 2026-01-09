@@ -12,5 +12,5 @@ Windows下基于aria2的下载软件, 易用免配置, 支持 HTTP/HTTPS、FTP�
 ![主界面](others/main-window.png)
 
 ### 使用方法
-[点击这里下载 XiaoFeiGun 最新版本 0.5.0.20260103](https://github.com/xfgdck/XiaoFeiGun/releases)，双击安装即可开始使用。
+[点击这里下载 XiaoFeiGun 最新版本 0.6.0.20260109](https://github.com/xfgdck/XiaoFeiGun/releases)，双击安装即可开始使用。
 
