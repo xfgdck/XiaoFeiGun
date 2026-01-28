@@ -1,6 +1,18 @@
-## XiaoFeiGun
+<div align="center">
 
-Windows下基于aria2的下载软件, 易用免配置, 支持 HTTP/HTTPS、FTP、SFTP、磁力链接（Magnet）与 BT 种子下载。
+# XiaoFeiGun 
+
+**Windows下基于aria2的下载软件, 易用免配置, 支持 HTTP/HTTPS、FTP、SFTP、磁力链接（Magnet）与 BT 种子下载。**
+
+<!-- 徽章区域：提升项目专业度和可信度 -->
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xfgdck/XiaoFeiGun?color=blue&label=最新版本)](https://github.com/xfgdck/XiaoFeiGun/releases)
+[![Downloads](https://img.shields.io/github/downloads/xfgdck/XiaoFeiGun/total?color=success&label=总下载量)](https://github.com/xfgdck/XiaoFeiGun/releases)
+[![Platform](https://img.shields.io/badge/支持平台-Windows-blueviolet?logo=windows)](https://github.com/xfgdck/XiaoFeiGun/releases)
+[![License](https://img.shields.io/badge/许可-免费软件-orange)](https://github.com/xfgdck/XiaoFeiGun/blob/main/README.md)
+
+[**📥 前往下载最新版**](https://github.com/xfgdck/XiaoFeiGun/releases) | [**🐛 反馈问题/提交建议**](https://github.com/xfgdck/XiaoFeiGun/issues)
+
+</div>
 
 ### 主要特性
 **免配置**：已内嵌高效配置，无需手动设置，开箱即用。  
@@ -14,5 +26,5 @@ Windows下基于aria2的下载软件, 易用免配置, 支持 HTTP/HTTPS、FTP�
 ![主界面](others/main-window.png)
 
 ### 使用方法
-[点击这里下载 XiaoFeiGun 最新版本 0.8.0.20260126](https://github.com/xfgdck/XiaoFeiGun/releases)，双击安装即可开始使用。
+[点击这里下载 XiaoFeiGun 最新版本](https://github.com/xfgdck/XiaoFeiGun/releases)，双击安装即可开始使用。
 
