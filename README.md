@@ -8,7 +8,7 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xfgdck/XiaoFeiGun?color=blue&label=最新版本)](https://github.com/xfgdck/XiaoFeiGun/releases)
 [![Downloads](https://img.shields.io/github/downloads/xfgdck/XiaoFeiGun/total?color=success&label=总下载量)](https://github.com/xfgdck/XiaoFeiGun/releases)
 [![Platform](https://img.shields.io/badge/支持平台-Windows-blueviolet?logo=windows)](https://github.com/xfgdck/XiaoFeiGun/releases)
-[![License](https://img.shields.io/badge/许可-免费软件-orange)](https://github.com/xfgdck/XiaoFeiGun/blob/main/README.md)
+[![License](https://img.shields.io/badge/许可-免费软件-orange)](https://github.com/xfgdck/XiaoFeiGun/releases)
 
 [**📥 前往下载最新版**](https://github.com/xfgdck/XiaoFeiGun/releases) | [**🐛 反馈问题/提交建议**](https://github.com/xfgdck/XiaoFeiGun/issues)
 
