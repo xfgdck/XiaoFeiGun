@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # XiaoFeiGun 
@@ -25,5 +27,4 @@
 ![主界面](others/main-window.png)
 
 ### 使用方法
-[点击这里下载 XiaoFeiGun 最新版本](https://github.com/xfgdck/XiaoFeiGun/releases)，双击安装即可开始使用。
-
+[点击这里下载 XiaoFeiGun 最新版本](https://github.com/xfgdck/XiaoFeiGun/releases)，双击安装程序即可开始使用。
